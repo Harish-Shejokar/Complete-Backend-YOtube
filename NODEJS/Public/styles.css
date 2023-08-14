@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     /* background-color: blanchedalmond; */
+    font-family: cursive;
 }
 
 
@@ -28,4 +29,14 @@ button{
     padding: 10px;
     background-color: plum;
     
+}
+
+h1{
+    align-items: center;
+}
+
+.error{
+    color: red;
+    text-align: right;
+    font-weight: bolder;
 }
